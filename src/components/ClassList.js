@@ -22,6 +22,7 @@ const ClassList = () => {
           </ListGroupItem>
         ))}
       </ListGroup>
+      <div></div>
     </Container>
   );
 };
